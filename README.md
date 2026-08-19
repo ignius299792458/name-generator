@@ -15,9 +15,9 @@ The final section also demonstrates an equivalent single-layer neural network us
 
 ## Files
 
-- `biagram.ipynb` — data exploration, modeling, evaluation, and sampling
-- `names.txt` — training dataset
-- `bigram_counter_matrix_names_data.png` — transition-count visualization
+- `./jupyter/bigram_gen/biagram.ipynb` — data exploration, modeling, evaluation, and sampling
+- `./jupyter/bigram_gen/names.txt` — training dataset
+- `./jupyter/bigram_gen/bigram_counter_matrix_names_data.png` — transition-count visualization
 
 ## Run
 
