@@ -1,5 +1,5 @@
 [project]
-name = "nano-transformer"
+name = "name-generator"
 version = "0.1.0"
 description = ""
 authors = [
@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [tool.poetry]
-packages = [{include = "nano-transformer"}]
+packages = [{include = "name-generator"}]
 
 
 [build-system]
