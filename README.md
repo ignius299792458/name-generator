@@ -21,11 +21,10 @@ The final section also demonstrates an equivalent single-layer neural network us
 
 ## Run
 
-The whole project is setup in poetry : read the pyproject.toml for required information.
+The whole project is setup using poetry manager : read the pyproject.toml for required information.
 
 ```bash
-# make poetry is installed in your device and then run
-
+# make sure poetry is installed in your device and then run
  poetry lock && poetry install
 
 ```
