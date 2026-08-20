@@ -13,11 +13,9 @@ It surrounds every name with a special `.` start/end token and counts each adjac
 
 The final section also demonstrates an equivalent single-layer neural network using one-hot inputs, softmax probabilities, gradient descent, and L2 regularization. This teaching example currently trains on only the first name.
 
-## Files
+## Examples
 
-- `./jupyter/bigram_gen/biagram.ipynb` — data exploration, modeling, evaluation, and sampling
-- `./jupyter/bigram_gen/names.txt` — training dataset
-- `./jupyter/bigram_gen/bigram_counter_matrix_names_data.png` — transition-count visualization
+- look inside `./name-generator/jupyter` folder there you we can both way by normal distribution and nn based model
 
 ## Run
 
