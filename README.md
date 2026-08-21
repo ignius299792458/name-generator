@@ -1,4 +1,4 @@
-# Name Generator
+# Simple Name Generator: 2 Models
 
 ## Overview
 
